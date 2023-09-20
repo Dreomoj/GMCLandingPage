@@ -1,0 +1,56 @@
+
+*{
+    background-color: #141416;
+    margin-top: 15px;
+    color: #FCFCFD;
+}
+
+.banner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bannerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 65%;
+    margin: auto;
+    
+}
+
+.texts{
+    margin-bottom: 10px;
+    color:#FCFCFD;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    color: #FCFCFD;
+    margin-bottom: 20px;
+}
+
+.bannerText{
+   text-align: center;
+   font-weight: 600;
+   color: #FCFCFD;
+   font-family: 'Poppins';
+}
+
+.iconLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    
+}
+
+.steps {
+    
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
